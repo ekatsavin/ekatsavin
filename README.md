@@ -5,7 +5,9 @@ Frontend developer
 ------------------
 
 My education: NUST MISIS, Master's Degree in 09.04.02 Information systems and technologies
+
 Additional courses: education at School 21 and courses from the Hexlet platform
+
 How to contact me: Send an email to katy4.savinkova2004@yandex.ru or write in Telegram to @ignotusc
 
 * 🌍  I'm based in Moscow
