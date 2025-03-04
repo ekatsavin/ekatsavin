@@ -9,7 +9,7 @@ Additional courses: education at School 21 and courses from the Hexlet platform
 How to contact me: Send an email to katy4.savinkova2004@yandex.ru or write in Telegram to @ignotusc
 
 * 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [GitHub](http://github.com/kate-savinkova)
+* 🖥️  See my portfolio at [GitHub](http://github.com/ekatsavin)
 * ✉️  You can contact me at [katy4.savinkova2004@yandex.ru](mailto:katy4.savinkova2004@yandex.ru)
 * 🧠  Now I'm learning advanced algorithms and React
 
